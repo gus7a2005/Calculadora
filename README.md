@@ -33,7 +33,7 @@ Teste realizado com a multiplicação de dois valores.
 Teste realizado com a divisão de dois valores, incluindo o tratamento de erro para divisão por zero.
 ![Divisão](operacao-divisao.png)
 
-### 5. Operação de Divisão por Zero
+### 6. Operação de Divisão por Zero
 Teste realizado com a divisão de um valor por 0, evidenciando o tratamento de erro para divisão por zero.
 ![Divisão](operacao-divisao-por-zero.png)
 
