@@ -6,8 +6,8 @@ Este projeto consiste em uma calculadora funcional desenvolvida em C# para o amb
 * Gustavo Moreno Coelho - RM556289
 * Nicolas Aquino Borges - RM556617
 * Dayana Ticona Quispe - RM558023
-* Nome do Integrante 4 - RMxxxxx
-* Nome do Integrante 5 - RMxxxxx
+* Matheus Alves - RM555177
+* Gustavo Atanazio dos Santos - RM559098
 
 ---
 
