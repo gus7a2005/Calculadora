@@ -3,9 +3,9 @@
 Este projeto consiste em uma calculadora funcional desenvolvida em C# para o ambiente de Console. O objetivo é aplicar conceitos de lógica de programação, estruturas de repetição e tratamento de erros.
 
 ## 👥 Integrantes do Grupo
-* Nome do Integrante 1 - RMxxxxx
-* Nome do Integrante 2 - RMxxxxx
-* Nome do Integrante 3 - RMxxxxx
+* Gustavo Moreno Coelho - RM556289
+* Nicolas Aquino Borges - RM556617
+* Dayana Ticona Quispe - RM558023
 * Nome do Integrante 4 - RMxxxxx
 * Nome do Integrante 5 - RMxxxxx
 
