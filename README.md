@@ -15,23 +15,27 @@ Este projeto consiste em uma calculadora funcional desenvolvida em C# para o amb
 
 ### 1. Menu Inicial
 Aqui apresentamos a tela principal com as opções de operação conforme solicitado.
-![Menu Inicial](caminho-da-sua-imagem-1.png)
+![Menu Inicial](tela-inicial-calculadora.png)
 
 ### 2. Operação de Adição
 Teste realizado com a soma de dois valores.
-![Adição](caminho-da-sua-imagem-2.png)
+![Adição](operacao-soma.png)
 
 ### 3. Operação de Subtração
 Teste realizado com a subtração de dois valores.
-![Subtração](caminho-da-sua-imagem-3.png)
+![Subtração](operacao-subtracao.png)
 
 ### 4. Operação de Multiplicação
 Teste realizado com a multiplicação de dois valores.
-![Multiplicação](caminho-da-sua-imagem-4.png)
+![Multiplicação](operacao-multiplicacao.png)
 
 ### 5. Operação de Divisão
 Teste realizado com a divisão de dois valores, incluindo o tratamento de erro para divisão por zero.
-![Divisão](caminho-da-sua-imagem-5.png)
+![Divisão](operacao-divisao.png)
+
+### 5. Operação de Divisão por Zero
+Teste realizado com a divisão de um valor por 0, evidenciando o tratamento de erro para divisão por zero.
+![Divisão](operacao-divisao-por-zero.png)
 
 ---
 
